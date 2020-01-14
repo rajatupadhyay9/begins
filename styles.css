@@ -1,0 +1,129 @@
+body {
+  background-color: #beebe9;
+  text-align: center;
+  font-family: 'Farsan', cursive;
+}
+
+#start {
+  margin: 80px auto 0;
+  font-size: 6.25rem;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #3fc5f0;
+}
+
+h2 {
+  color: #2e279d;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+#start2 {
+  margin-top: 0;
+  font-size: 3.125rem;
+  color: #3fc5f0;
+}
+
+p {
+  font-family: 'BioRhyme', serif;
+}
+
+.top-container {
+  background-color: #9be3de;
+  margin: 5px;
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  padding: 20px;
+}
+
+#topcloud {
+  position: absolute;
+  right: 400px;
+}
+
+#bottomcloud {
+  position: absolute;
+  left: 400px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillimage1 {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.skillimage2 {
+  width: 25%;
+  float: right;
+}
+
+.middle-container {
+  margin-top: 50px;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 3%;
+  border-width: 5px;
+  padding: 10px;
+  border-color: grey;
+}
+
+.bottom-container {
+  background-color: #9be3de;
+  padding: 30px;
+  margin: 10px 0 0;
+}
+
+a {
+  font-size: 1.25rem;
+  padding: 10px;
+}
+
+a:hover {
+  color: white;
+}
+
+.copyright {
+  color: white;
+  font-size: 0.5rem;
+}
+
+.btn {
+  margin: 10px;
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:40px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 30px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
